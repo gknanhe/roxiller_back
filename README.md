@@ -1,4 +1,4 @@
-# Roxiler Assignment Frontend
+# Roxiler Assignment Backend
 
 This project provides a frontend dashboard for managing product transactions. It utilizes the backend APIs created for fetching transaction data, statistics, and bar chart information.
 
