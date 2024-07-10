@@ -24,6 +24,6 @@ app.use("/api", allRoutes);
 const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => {
   connectMongoDB();
-  //   feedDataToDb();  //call only once
+  // feedDataToDb(); //call only once
   console.log(`Server running on port ${PORT}`);
 });
